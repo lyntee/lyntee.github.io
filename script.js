@@ -37,17 +37,17 @@ const pdtDesc = [
   {
     h3: "Bedroom",
     p: "bedroom description Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ab? Quo sunt id eos ut pariatur quas, unde placeat deleniti recusandae iusto ipsa harum, similique, magni tenetur facilis nesciunt",
-    button: "Learn More"
+    button: "More..."
   },
   {
     h3: "Kitchen",
     p: "kitchen description Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ab? Quo sunt id eos ut pariatur quas, unde placeat deleniti recusandae iusto ipsa harum, similique, magni tenetur facilis nesciunt",
-    button: "Learn More"
+    button: "More..."
   },
   {
     h3: "Living Room",
     p: "living room description Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ab? Quo sunt id eos ut pariatur quas, unde placeat deleniti recusandae iusto ipsa harum, similique, magni tenetur facilis nesciunt",
-    button: "Learn More"
+    button: "More..."
   }
 ];
 const reviewsDesc = [
